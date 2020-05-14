@@ -1,2 +1,2 @@
 # CallDonet
-C# 调用C++实例    
+c++通过CLRCreateInstance调用c#的dll实例。      
